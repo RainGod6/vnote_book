@@ -1,0 +1,138 @@
+{
+    "created_time": "2020-10-21T10:37:20Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-10-21T10:41:06Z",
+            "modified_time": "2020-10-22T10:35:47Z",
+            "name": "01-python程序的构成.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-10-23T09:45:32Z",
+            "modified_time": "2020-10-23T10:00:28Z",
+            "name": "02-对象.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-10-23T10:02:10Z",
+            "modified_time": "2020-10-23T10:18:22Z",
+            "name": "03-引用.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-10-23T10:27:26Z",
+            "modified_time": "2020-10-24T01:26:01Z",
+            "name": "04-标识符.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-10-24T01:27:21Z",
+            "modified_time": "2020-10-24T02:06:33Z",
+            "name": "05-变量和简单赋值语句.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-10-24T02:19:11Z",
+            "modified_time": "2020-10-24T02:34:37Z",
+            "name": "06-最基本内置数据类型.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-10-24T02:40:56Z",
+            "modified_time": "2020-10-24T03:12:14Z",
+            "name": "07-整数.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-10-24T03:18:45Z",
+            "modified_time": "2020-10-24T05:49:35Z",
+            "name": "08-浮点数.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-10-24T08:59:12Z",
+            "modified_time": "2020-10-24T09:16:33Z",
+            "name": "09-时间表示.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-10-24T09:25:08Z",
+            "modified_time": "2020-10-24T09:36:05Z",
+            "name": "10-小练习.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-10-24T09:36:33Z",
+            "modified_time": "2020-10-24T09:59:55Z",
+            "name": "11-布尔值.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-10-24T10:04:04Z",
+            "modified_time": "2020-10-24T10:20:09Z",
+            "name": "12-同一运算符.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-10-27T04:22:30Z",
+            "modified_time": "2020-10-27T04:32:25Z",
+            "name": "13-运算符总结.md",
+            "tags": [
+            ]
+        }
+    ],
+    "sub_directories": [
+    ],
+    "version": "1"
+}

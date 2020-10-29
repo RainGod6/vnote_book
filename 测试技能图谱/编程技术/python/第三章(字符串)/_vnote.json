@@ -1,0 +1,108 @@
+{
+    "created_time": "2020-10-21T10:37:37Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-10-26T04:07:18Z",
+            "modified_time": "2020-10-26T04:27:24Z",
+            "name": "01-字符串基本特点.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-10-26T04:28:29Z",
+            "modified_time": "2020-10-26T04:46:40Z",
+            "name": "02-转义字符.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-10-26T12:54:53Z",
+            "modified_time": "2020-10-26T13:15:37Z",
+            "name": "03-str()实现数字转字符串.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-10-26T13:16:13Z",
+            "modified_time": "2020-10-26T13:36:06Z",
+            "name": "04-字符串切片操作.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-10-26T13:37:48Z",
+            "modified_time": "2020-10-26T13:55:27Z",
+            "name": "05-字符串分割和合并.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-10-26T13:55:58Z",
+            "modified_time": "2020-10-26T14:06:39Z",
+            "name": "06-字符串驻留机制.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-10-26T14:05:35Z",
+            "modified_time": "2020-10-26T14:36:38Z",
+            "name": "07-字符串常用方法汇总.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-10-27T01:12:36Z",
+            "modified_time": "2020-10-27T02:05:11Z",
+            "name": "08-字符串的格式化.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-10-27T02:05:49Z",
+            "modified_time": "2020-10-27T02:09:43Z",
+            "name": "09-可变字符串.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-10-27T02:10:17Z",
+            "modified_time": "2020-10-27T02:36:25Z",
+            "name": "10-字符串章节小练习.md",
+            "tags": [
+            ]
+        }
+    ],
+    "sub_directories": [
+    ],
+    "version": "1"
+}

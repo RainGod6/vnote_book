@@ -1,0 +1,33 @@
+{
+    "created_time": "2020-08-05T10:56:50Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-09-08T10:55:44Z",
+            "modified_time": "2020-09-08T10:55:51Z",
+            "name": "01-情境管理.md",
+            "tags": [
+            ]
+        }
+    ],
+    "sub_directories": [
+        {
+            "name": "沟通圣经"
+        },
+        {
+            "name": "OKR工作法"
+        },
+        {
+            "name": "图解HTTP"
+        },
+        {
+            "name": "网络是怎样链接的"
+        },
+        {
+            "name": "玩转Django 2.0"
+        }
+    ],
+    "version": "1"
+}
