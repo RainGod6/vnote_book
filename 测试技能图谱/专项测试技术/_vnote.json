@@ -3,6 +3,9 @@
     "files": [
     ],
     "sub_directories": [
+        {
+            "name": "移动端"
+        }
     ],
     "version": "1"
 }
