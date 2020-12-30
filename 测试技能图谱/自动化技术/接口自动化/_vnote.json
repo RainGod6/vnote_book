@@ -5,6 +5,9 @@
     "sub_directories": [
         {
             "name": "接口测试"
+        },
+        {
+            "name": "requests框架"
         }
     ],
     "version": "1"
