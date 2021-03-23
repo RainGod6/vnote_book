@@ -10,6 +10,16 @@
             "name": "01-阿里云服务器搭建.md",
             "tags": [
             ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-01-13T01:42:18Z",
+            "modified_time": "2021-01-13T14:29:45Z",
+            "name": "02-linux下安装JDK&Maven&python.md",
+            "tags": [
+            ]
         }
     ],
     "sub_directories": [
